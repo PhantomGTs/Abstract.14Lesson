@@ -8,7 +8,7 @@ class Program
         cat.ShowInfo();
 
         Console.WriteLine();
-        
+
         Dog dog = new Dog("Янтарный", "Масик");
         dog.ShowInfo();
         dog.ShowColor();

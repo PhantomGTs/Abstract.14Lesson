@@ -20,7 +20,7 @@ public class Cat : Animal
 
     public override void Say()
     {
-        Console.WriteLine(sound);   
+        Console.WriteLine(sound);
     }
 
     public override void GetType()

@@ -10,13 +10,13 @@ public abstract class Animal
     {
         Name = name;
     }
-    
+
 
     // Абстрактный метод Say
     public abstract void Say();
-    
+
     public abstract void GetType();
-    
+
     public void ShowInfo()
     {
         GetType();
